@@ -98,7 +98,7 @@ function cadastrar(){
     msgError.innerHTML = ''
     
     setTimeout(()=>{
-        window.location.href = 'https://cdpn.io/thicode/debug/ZELzYxV/dXAqBaRyvwJk'
+        window.location.href = 'https://mariasatelier.github.io/Marias-atelier-login/'
     }, 3000)
   
     
